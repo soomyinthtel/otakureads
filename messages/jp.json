@@ -1,0 +1,41 @@
+{
+  "Error": {
+    "description": "<p>残念ながらエラーが発生しました。</p><p>訪問していたページを<retry>再読み込み</retry>してみてください。</p>",
+    "title": "問題が発生しました！"
+  },
+  "IndexPage": {
+    "description": "マンガのすべてがここに！ 終わりのない物語、圧巻のアート、心に残るキャラクターを発見しよう。初心者でも熟練者でも、<span>OtakuReads</span> にはすべてのマンガファンのためのコンテンツが揃っています。さあ、冒険を始めよう！",
+    "title": "OtakuReads"
+  },
+
+  "LocaleLayout": {
+    "title": "OtakuReads"
+  },
+  "LocaleSwitcher": {
+    "label": "",
+    "locale": "{locale, select, jp {Japan} en {English} other {Unknown}}"
+  },
+
+  "Navigation": {
+    "home": "Home",
+    "about": "About"
+  },
+  "NotFoundPage": {
+    "description": "ブラウザのアドレスバーを再確認するか、ナビゲーションを使用して既知のページに移動してください。",
+    "title": "ページが見つかりません"
+  },
+  "PageLayout": {
+    "links": {
+      "docs": {
+        "description": "公式ドキュメントで next-intl について詳しく学びましょう。",
+        "href": "https://next-intl-docs.vercel.app/",
+        "title": "ドキュメント"
+      },
+      "source": {
+        "description": "このサンプルのソースコードを GitHub で閲覧できます。",
+        "href": "https://github.com/amannn/next-intl/tree/main/examples/example-app-router",
+        "title": "ソースコード"
+      }
+    }
+  }
+}

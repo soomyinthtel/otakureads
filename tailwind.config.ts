@@ -9,8 +9,13 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        background: "var(--background-color)",
+        foreground: "var(--foreground-color)",
+        primary: "var(--primary-color)",
+        bgSecondary: "var(--bg-secondary-color)",
+      },
+      aspectRatio: {
+        custom: "640 / 320", // 2:1 ratio
       },
     },
   },
